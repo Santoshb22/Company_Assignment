@@ -1,0 +1,15 @@
+{
+  "name": "@santosh22",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["resume", "cli", "santosh", "bhardwaj"],
+  "author": "Santoh Bhardwaj",
+  "bin": {
+    "@Santosh22": "./index.js"
+  },
+  "license": "ISC",
+  "description": "Resume of Santosh Bhardwaj"
+}
