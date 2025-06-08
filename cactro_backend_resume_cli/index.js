@@ -1,4 +1,6 @@
-#!/usr/bin/env node
+#!/usr/bin/env node 
+
+// Above line Ensures the script runs with Node.js interpreter.
 
 console.log(`
 Santosh Ramnarayan Bhardwaj
@@ -37,3 +39,4 @@ Education
 📍 Crio.Do — Fullstack Fellowship (2024–25)  
 📍 BSc.IT, Mumbai University (2019–23) — CGPA: 7.6
 `);
+
